@@ -1,0 +1,4 @@
+The name the leader: 1
+Miles traveled: 101 miles
+Food remaining: 0 pounds
+Cash remaining: $715.00
